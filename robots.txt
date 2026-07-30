@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://hspseats.com/sitemap.xml
+Disallow: /
